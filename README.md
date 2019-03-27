@@ -2,7 +2,11 @@
 
 TODOC
 
-## Motivation
+## Problem
+
+TODOC
+
+## Solution
 
 TODOC
 
@@ -14,7 +18,7 @@ npm install packsy-starter
 yarn add packsy-starter
 ```
 
-## Example
+## Usage
 
 TODOC
 
